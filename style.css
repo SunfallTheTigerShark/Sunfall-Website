@@ -1,3 +1,7 @@
+@font-face {
+  font-family: Pilot Command Laser;
+  src: url(PilotCommandLaser-mLGPm.woff);
+}
 h1 {
     font-family: 'Pilot Command Laser';
     font-size: 50px;
