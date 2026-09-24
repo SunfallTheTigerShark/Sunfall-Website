@@ -7,3 +7,11 @@ h1 {
     font-size: 50px;
     color: #3f5b75;
 }
+
+body {
+  background-color: #000000;
+}
+
+p {
+  color: #ffffff;
+}
