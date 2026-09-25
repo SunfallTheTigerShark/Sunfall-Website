@@ -1,17 +1,69 @@
 @font-face {
-  font-family: Pilot Command Laser;
-  src: url(https://github.com/SunfallTheTigerShark/Sunfall-Website/blob/main/PilotCommandLaser-mLGPm.woff);
+  font-family: 'Pilot Command Laser';
+  src: url('/fonts/PilotCommandLaser-mLGPm.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
+
 h1 {
-    font-family: 'Pilot Command Laser';
     font-size: 50px;
     color: #3f5b75;
+    text-align: center;
 }
 
 body {
-  background-color: #000000;
+  background-color: #000000
 }
 
 p {
   color: #ffffff;
+}
+
+pre {
+  color: #ffffff;
+}
+
+blockquote {
+  color: #ffffff;
+}
+
+table {
+  color:#ffffff;
+}
+
+table, th, td {
+  border: 1px solid white;
+  text-align: center;
+}
+
+th {
+  font-size: 25px;
+}
+
+td{
+  font-size: 20px;
+}
+
+section {
+  width: 50%;
+}
+
+aside {
+  color:#ffffff;
+  width: 50%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+}
+
+h2 {
+  color: #ffffff;
+  text-align: center;
+}
+
+footer {
+  color: #ffffff;
+  text-align: center;
+  background-color: grey;
+  padding: 10px;
 }
